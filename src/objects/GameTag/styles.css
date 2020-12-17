@@ -1,0 +1,13 @@
+.game-tag {
+    background-color: var(--color-whitest);
+    padding: var(--spacing-very-small) var(--spacing-medium);
+    border-radius: 2em;
+    cursor: pointer;
+}
+
+.game-tag.-end {
+    background-color: var(--color-constrast);
+    color: var(--color-whitest);
+    font-weight: bold;
+    text-transform: uppercase;
+}

@@ -1,0 +1,10 @@
+.game-player {
+    background: none;
+    border: none;
+    transition: background-color 150ms linear;
+    cursor: pointer;
+}
+
+.game-player:hover {
+    background-color: var(--color-gray-1);
+}

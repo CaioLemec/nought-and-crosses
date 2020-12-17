@@ -1,0 +1,26 @@
+.internal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--spacing-medium) var(--spacing-small);
+}
+
+.internal-header > .about-link {
+    margin-left: auto;
+    margin-right: var(--spacing-small);
+}
+
+.internal-header > .logo-type {
+    width: 150px;
+}
+
+
+@media (min-width: 740px) {
+    .app .internal-header > .logo-type {
+        width: 250px;
+    }
+
+    .app .internal-header > .about-link {
+        font-size: var(--size-medium);
+    }
+}

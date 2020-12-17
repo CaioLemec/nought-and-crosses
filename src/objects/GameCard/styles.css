@@ -1,0 +1,5 @@
+.game-card {
+    background-color: var(--color-whitest);
+    border-radius: var(--spacing-radius);
+    box-shadow: 0 3px 6px 0 var(--color-shadow-1);
+}

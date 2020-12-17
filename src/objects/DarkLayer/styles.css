@@ -1,0 +1,19 @@
+.dark-layer {
+    background: linear-gradient(360deg, var(--color-gray-2) 5%, var(--color-darkest) 100%) no-repeat;
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(100%);
+    transition: transform 200ms linear;
+}
+
+.dark-layer.-active {
+    transform: translate(0%);
+    transition: transform 200ms linear;
+}
+
+.dark-layer > .internal-header {
+margin-bottom: var(--spacing-very-big);
+}

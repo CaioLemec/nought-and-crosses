@@ -1,0 +1,11 @@
+.game-label {
+    font-size: var(--size-small);
+    font-weight: bold;
+    color: var(--color-gray-3);
+    cursor: pointer;
+}
+
+.game-label::selection {
+    background-color: var(--color-constrast);
+    color: var(--color-whitest);
+}

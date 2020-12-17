@@ -1,0 +1,24 @@
+.game-input {
+    display: none;
+}
+
+.game-label {
+    display: inline-flex;
+    align-items: center;
+}
+
+.game-label::before {
+    content: "";
+    display: inline-block;
+    box-sizing: border-box;
+    width: 20px;
+    height: 20px;
+    border: 3px solid var(--color-gray-3);
+    border-radius: var(--spacing-radius);
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.game-input:checked + .game-label::before {
+    background-color: var(--color-darkest);
+}
