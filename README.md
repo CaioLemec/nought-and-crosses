@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
- <img alt="mockup" src="./public/mockup.png" width="40%">
+ <img alt="mockup" src="./public/mockup.png" width="60%">
 </p>
 
 ## 💻 Project
