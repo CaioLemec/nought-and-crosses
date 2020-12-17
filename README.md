@@ -27,6 +27,8 @@
 
 The intention of doing this project is to consolidate the knowledge in <strong>React</strong>. 🎓
 
+Organization methodology: <strong>ITCSS</strong> & <strong>RSCSS</strong>
+
 <br>
 
 ## 🎨 Layout
