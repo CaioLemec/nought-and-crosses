@@ -38,7 +38,7 @@ The intention of doing this project is to consolidate the knowledge in <strong>R
 ## 🔨 Technology
 
 <p align="center">
-  <img src="./public/Tech.png" width="25%">
+  <img src="./public/tech.png" width="25%">
 </p>
 
 <br>
