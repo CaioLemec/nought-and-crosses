@@ -91,8 +91,12 @@ This project is licensed under the Apache 2.0 [LICENSE](LICENSE.md).
 <br>
 <br>
 
-[![Badge](https://img.shields.io/static/v1?label=&message=caiolemec@gmail.com&color=lightgrey&style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:caiolemec@gmail.com)](caiolemec@gmail.com) [![Badge](https://img.shields.io/static/v1?label=&message=CaioLemec&color=lightgrey&style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/caio-lemec)](https://br.linkedin.com/in/caio-lemec/) 
-
+<img style="border-radius: 30%;" src="https://avatars3.githubusercontent.com/u/59886891?s=460&v=4" width="75px;"/>
+<h3>Caio Lemec<h3>
+<a href="https://t.me/caiolemec"><img src="https://img.shields.io/badge/Telegram-C0C0C0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="mailto:caiolemec@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=E-mail&color=C0C0C0&style=for-the-badge&logo=Gmail"/>
+<a href="https://www.linkedin.com/in/caiolemec/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=C0C0C0&style=for-the-badge&logo=linkedin"/>
+<br>
 
 <hr>
 
